@@ -51,11 +51,11 @@
 
 起始位置：
 
-![](/Users/xiaoruan/Library/Application Support/typora-user-images/image-20210809222402039.png)
+![](https://raw.githubusercontent.com/RQYned/blogImages/master/img/20210810204235.png)
 
 设置absolute：
 
-![image-20210809222824910](/Users/xiaoruan/Library/Application Support/typora-user-images/image-20210809222824910.png)
+![image-20210810204338927](https://raw.githubusercontent.com/RQYned/blogImages/master/img/20210810204338.png)
 
 ### relative：元素的定位永远是相对于自身位置的，和其他元素无关，也不会影响其他元素
 
@@ -96,5 +96,5 @@
 
 黑色div为起始位置，绿色为自身移动的相对定位
 
-![image-20210809224233425](/Users/xiaoruan/Library/Application Support/typora-user-images/image-20210809224233425.png)
+![image-20210810204719806](https://raw.githubusercontent.com/RQYned/blogImages/master/img/20210810204719.png)
 
